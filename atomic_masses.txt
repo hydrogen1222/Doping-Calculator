@@ -1,0 +1,12 @@
+# Element Relative atomic mass
+Li 6.941
+P 30.974
+S 32.06
+Cl 35.453
+Br 79.904
+Na 22.990
+O 15.999
+F 18.998
+I 126.904
+Sc 44.956
+Ti 50.941
